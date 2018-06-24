@@ -1,0 +1,24 @@
+body {
+  background-color:#FAF9F9;
+  color:#FF0909;
+  font-family: 'Tajawal', sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+.about{
+  background-image: url("https://cdn.vox-cdn.com/thumbor/1VlhLd3gloFh1yICZwPD3pyzSo0=/0x0:1000x605/920x613/filters:focal(420x223:580x383):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/48780381/duck.0.png");
+}
+
+.tabbycat{
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUmpL8vODbAhVNnlkKHR6qDocQjRx6BAgBEAU&url=https%3A%2F%2Fwww.colourbox.com%2Fimage%2Fopen-book-closeup-on-white-background-isolation-image-1938966&psig=AOvVaw1i-MGW77tYoLqY5RA9X_xs&ust=1529523438075067");
+  }
+
+img{
+  background-color:blue;
+  padding: 20px;
+  width:300px;
+  height: 300px;
+  border-top:blue 5px dashed;
+  margin-top: 50px;
+}

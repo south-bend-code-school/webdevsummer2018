@@ -1,0 +1,22 @@
+body {
+  background-color: DarkRed;
+  color: LavenderBlush;
+  font-family: 'Allerta', sans-serif;
+  text-align: center;
+
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_51d8xdtltAd6F65Qqo-SP6A4vqvJN0egDVcBETn0_-VFQ-Yzg");
+  background-repeat: repeat;
+  background-size: contain;
+}
+
+.links {
+  background-color: Black;
+  color: DimGrey;
+}
+
+img {
+  background-color: CadetBlue;
+  padding: 50px;
+  border: DimGrey 5px solid;
+  margin: 3px;
+}

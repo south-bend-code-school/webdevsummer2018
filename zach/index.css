@@ -1,0 +1,10 @@
+body {
+    background-color: navy;
+    color: white;
+    font-family: 'Gloria Hallelujah', sans-serif;
+    text-align: center;
+}
+
+#right{
+  float: right;
+}

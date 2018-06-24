@@ -1,0 +1,33 @@
+body  {
+  background-color: gray;
+  color: navy;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+
+  background-image: url("http://media.idownloadblog.com/wp-content/uploads/2014/09/iOS-8-iPad-Wallpaper-Jason-Zigrino-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size: cover;
+}
+.about {
+  background-color: dimgray;
+  color: navy;
+}
+
+.othersitelink {
+  background-color: transparent;
+  color: white;
+}
+
+.thingsoftheweek {
+  background-color: dimgray;
+  color: navy;
+}
+
+img {
+  background-color: dimgray;
+  padding: 0px;
+  border: 100px;
+  margin: 50px;
+}
